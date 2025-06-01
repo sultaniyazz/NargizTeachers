@@ -1,0 +1,88 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "image": "https://via.placeholder.com/100",
+      "name": "Ozoda Karimova",
+      "subject": "Ona tili va adabiyoti",
+      "phone": "+998901234567"
+    },
+    {
+      "id": 2,
+      "image": "https://via.placeholder.com/100",
+      "name": "Shavkat Rasulov",
+      "subject": "Matematika",
+      "phone": "+998911112233"
+    },
+    {
+      "id": 3,
+      "image": "https://via.placeholder.com/100",
+      "name": "Dilorom Tursunova",
+      "subject": "Fizika",
+      "phone": "+998933456789"
+    },
+    {
+      "id": 4,
+      "image": "https://via.placeholder.com/100",
+      "name": "Anvar Bekmurodov",
+      "subject": "Kimyo",
+      "phone": "+998935551234"
+    },
+    {
+      "id": 5,
+      "image": "https://via.placeholder.com/100",
+      "name": "Zarnigor Islomova",
+      "subject": "Biologiya",
+      "phone": "+998909998877"
+    },
+    {
+      "id": 6,
+      "image": "https://via.placeholder.com/100",
+      "name": "Ulug‘bek Qodirov",
+      "subject": "Geografiya",
+      "phone": "+998934445566"
+    },
+    {
+      "id": 7,
+      "image": "https://via.placeholder.com/100",
+      "name": "Feruza Ergasheva",
+      "subject": "Ingliz tili",
+      "phone": "+998935556677"
+    },
+    {
+      "id": 8,
+      "image": "https://via.placeholder.com/100",
+      "name": "Islomjon Yuldashev",
+      "subject": "Informatika",
+      "phone": "+998901122334"
+    },
+    {
+      "id": 9,
+      "image": "https://via.placeholder.com/100",
+      "name": "Malika Nurmatova",
+      "subject": "O‘zbekiston tarixi",
+      "phone": "+998907654321"
+    },
+    {
+      "id": 10,
+      "image": "https://via.placeholder.com/100",
+      "name": "Rustam Karimov",
+      "subject": "Jahon tarixi",
+      "phone": "+998939393939"
+    },
+    {
+      "id": 11,
+      "image": "https://via.placeholder.com/100",
+      "name": "Muxlisa Toshpulatova",
+      "subject": "Huquq asoslari",
+      "phone": "+998901234111"
+    },
+    {
+      "id": 12,
+      "image": "https://via.placeholder.com/100",
+      "name": "Javlonbek Mamatov",
+      "subject": "Jismoniy tarbiya",
+      "phone": "+998938887766"
+    }
+  ]
+}
