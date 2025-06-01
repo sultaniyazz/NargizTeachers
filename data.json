@@ -2,87 +2,362 @@
   "teachers": [
     {
       "id": 1,
-      "image": "https://t4.ftcdn.net/jpg/04/25/65/97/360_F_425659755_5BaLdNbbCtQbbiz1JNFBikshfiCWI5NE.jpg",
       "name": "Ozoda Karimova",
       "subject": "Ona tili va adabiyoti",
-      "phone": "+998901234567"
+      "phone": "+998901234567",
+      "image": "https://t4.ftcdn.net/jpg/04/25/65/97/360_F_425659755_5BaLdNbbCtQbbiz1JNFBikshfiCWI5NE.jpg",
+      "description": "20 yildan ortiq tajribaga ega ona tili va adabiyoti o‘qituvchisi. Ko‘plab DTM 180+ natijalar egasi o‘quvchilarni tayyorlagan.",
+      "books": [
+        {
+          "title": "Adabiyot nazariyasi",
+          "url": "/books/adabiyot.pdf"
+        },
+        {
+          "title": "Ona tili 11-sinf",
+          "url": "/books/onatili11.pdf"
+        }
+      ],
+      "bio": "Toshkent Davlat Universitetining Filologiya fakultetini tamomlaganman. Maqsadim — o‘quvchilarga ona tili va adabiyot go‘zalligini yetkazish.",
+      "achievements": [
+        "🏆 2019 — Eng yaxshi filolog ustoz",
+        "📜 2021 — Adabiyot fanidan sertifikat",
+        "✍️ 2022 — Respublika insholar tanlovi hakami"
+      ],
+      "stats": {
+        "experience": 20,
+        "students": 450,
+        "olympiads": 28
+      },
+      "reviews": [
+        {
+          "name": "Murod Qosimov",
+          "comment": "Adabiyot darslari juda qiziqarli o'tadi."
+        }
+      ]
     },
     {
       "id": 2,
-      "image": "https://t4.ftcdn.net/jpg/02/44/80/33/360_F_244803369_cNviClISSSUV5FGcYsJR9anLrqiRrHVK.jpg",
       "name": "Shavkat Rasulov",
       "subject": "Matematika",
-      "phone": "+998911112233"
+      "phone": "+998911112233",
+      "image": "https://t4.ftcdn.net/jpg/02/44/80/33/360_F_244803369_cNviClISSSUV5FGcYsJR9anLrqiRrHVK.jpg",
+      "description": "Matematika bo‘yicha 25 yillik tajribaga ega. Olimpiada va DTM tayyorlov kurslari ustasi.",
+      "books": [
+        {
+          "title": "Algebra",
+          "url": "/books/algebra.pdf"
+        },
+        {
+          "title": "Geometriya",
+          "url": "/books/geometry.pdf"
+        }
+      ],
+      "bio": "Men 1998 yildan beri matematikani o‘qitaman. Har yili 50 dan ortiq o‘quvchim oliy ball oladi.",
+      "achievements": [
+        "📘 2021 — Algebra bo‘yicha o‘quv qo‘llanma muallifi",
+        "🏅 2022 — Eng yaxshi STEM ustoz"
+      ],
+      "stats": {
+        "experience": 25,
+        "students": 1000,
+        "olympiads": 80
+      },
+      "reviews": [
+        {
+          "name": "Dilshod Ahmedov",
+          "comment": "Matematikani sevdirgan inson!"
+        }
+      ]
     },
     {
       "id": 3,
-      "image": "https://t3.ftcdn.net/jpg/02/11/85/38/360_F_211853826_fykEscofGvoemrJJl8ube7w0O2tccR17.jpg",
       "name": "Dilorom Tursunova",
       "subject": "Fizika",
-      "phone": "+998933456789"
+      "phone": "+998933456789",
+      "image": "https://t3.ftcdn.net/jpg/02/11/85/38/360_F_211853826_fykEscofGvoemrJJl8ube7w0O2tccR17.jpg",
+      "description": "Fizika fanidan dars beruvchi ustoz, zamonaviy metodikalar ustasi.",
+      "books": [
+        {
+          "title": "Fizika 11-sinf",
+          "url": "/books/fizika11.pdf"
+        }
+      ],
+      "bio": "Fizikani amaliyot orqali tushuntirish tarafdoriman. DTM va olimpiadalarga tayyorlov bo‘yicha katta tajribaga egaman.",
+      "achievements": [
+        "🏅 2018 — STEM fanlar ustozlari konferensiyasi ishtirokchisi"
+      ],
+      "stats": {
+        "experience": 18,
+        "students": 500,
+        "olympiads": 34
+      },
+      "reviews": [
+        {
+          "name": "Ziyoda Karimova",
+          "comment": "Fizikani juda yaxshi tushuntiradi!"
+        }
+      ]
     },
     {
       "id": 4,
-      "image": "https://img.freepik.com/premium-photo/young-man-shirt-isolated-white-background_185193-74626.jpg",
       "name": "Anvar Bekmurodov",
       "subject": "Kimyo",
-      "phone": "+998935551234"
+      "phone": "+998935551234",
+      "image": "https://img.freepik.com/premium-photo/young-man-shirt-isolated-white-background_185193-74626.jpg",
+      "description": "Yuqori darajadagi kimyo ustoz, DTM 90+ natijalari bo‘yicha yetakchi.",
+      "books": [
+        {
+          "title": "Kimyo nazariyasi",
+          "url": "/books/kimyo.pdf"
+        }
+      ],
+      "bio": "Kimyo fanini o‘rgatishda tajribam katta. O‘quvchilarim xalqaro testlarda yuqori natijalarni ko‘rsatmoqda.",
+      "achievements": [
+        "🥇 2020 — Kimyo olimpiadasi tayyorlov kurslari asoschisi"
+      ],
+      "stats": {
+        "experience": 15,
+        "students": 400,
+        "olympiads": 25
+      },
+      "reviews": [
+        {
+          "name": "Bahrom Jalolov",
+          "comment": "Kimyo endi men uchun qiyin emas!"
+        }
+      ]
     },
     {
       "id": 5,
-      "image": "https://www.shutterstock.com/image-photo/cheerful-brunette-business-woman-student-600nw-2246174263.jpg",
       "name": "Zarnigor Islomova",
       "subject": "Biologiya",
-      "phone": "+998909998877"
+      "phone": "+998909998877",
+      "image": "https://www.shutterstock.com/image-photo/cheerful-brunette-business-woman-student-600nw-2246174263.jpg",
+      "description": "Biologiya fanini jonli misollar bilan o‘rgatadigan ustoz.",
+      "books": [
+        {
+          "title": "Biologiya asoslari",
+          "url": "/books/biology.pdf"
+        }
+      ],
+      "bio": "Toshkent Davlat Universitetining Biologiya fakulteti bitiruvchisiman. Har bir hujayra haqida jonli tushuntirish tarafdoriman.",
+      "achievements": [
+        "🥈 2019 — Yosh biotexnologlar seminarida qatnashgan"
+      ],
+      "stats": {
+        "experience": 12,
+        "students": 350,
+        "olympiads": 20
+      },
+      "reviews": [
+        {
+          "name": "Olimjon Murodov",
+          "comment": "Har bir dars hayratlantiradi!"
+        }
+      ]
     },
     {
       "id": 6,
-      "image": "https://t4.ftcdn.net/jpg/02/85/98/31/360_F_285983167_OTSjTSeRhqJ7b4TPxlQ80mC9zTiDCzMQ.jpg",
       "name": "Ulug‘bek Qodirov",
       "subject": "Geografiya",
-      "phone": "+998934445566"
+      "phone": "+998934445566",
+      "image": "https://t4.ftcdn.net/jpg/02/85/98/31/360_F_285983167_OTSjTSeRhqJ7b4TPxlQ80mC9zTiDCzMQ.jpg",
+      "description": "Geografiyani xaritalar, animatsiyalar bilan o‘rgatadi.",
+      "books": [
+        {
+          "title": "Yer sharining iqlimi",
+          "url": "/books/geografiya.pdf"
+        }
+      ],
+      "bio": "Geografiyaga bo‘lgan qiziqishni uyg‘otaman. Har bir darsda yangi bilimlar.",
+      "achievements": [
+        "🗺️ 2022 — O‘zbekiston geoinformatsion tanlovi ishtirokchisi"
+      ],
+      "stats": {
+        "experience": 14,
+        "students": 370,
+        "olympiads": 18
+      },
+      "reviews": [
+        {
+          "name": "Shahnoza Xudoyberdiyeva",
+          "comment": "Juda vizual va tushunarli darslar!"
+        }
+      ]
     },
     {
       "id": 7,
-      "image": "https://t3.ftcdn.net/jpg/03/21/67/72/360_F_321677228_PybtVjGqx90y34jQzbyeALHhOncLC8DR.jpg",
       "name": "Feruza Ergasheva",
       "subject": "Ingliz tili",
-      "phone": "+998935556677"
+      "phone": "+998935556677",
+      "image": "https://t3.ftcdn.net/jpg/03/21/67/72/360_F_321677228_PybtVjGqx90y34jQzbyeALHhOncLC8DR.jpg",
+      "description": "IELTS, CEFR tayyorlov bo‘yicha ekspert.",
+      "books": [
+        {
+          "title": "Grammar Handbook",
+          "url": "/books/grammar.pdf"
+        }
+      ],
+      "bio": "Speaking, reading, writing, listening — to‘rt yo‘nalishda ham tayyorlayman.",
+      "achievements": [
+        "🎓 2023 — IELTS 8.5 sertifikat"
+      ],
+      "stats": {
+        "experience": 10,
+        "students": 600,
+        "olympiads": 10
+      },
+      "reviews": [
+        {
+          "name": "Javohir Sobirov",
+          "comment": "Endi ingliz tilida erkin gapira olaman!"
+        }
+      ]
     },
     {
       "id": 8,
-      "image": "https://t3.ftcdn.net/jpg/01/92/16/04/360_F_192160468_2ev2JYmocXi7pxbBiPsfNEVwDqmTTLYL.jpg",
       "name": "Islomjon Yuldashev",
       "subject": "Informatika",
-      "phone": "+998901122334"
+      "phone": "+998901122334",
+      "image": "https://t3.ftcdn.net/jpg/01/92/16/04/360_F_192160468_2ev2JYmocXi7pxbBiPsfNEVwDqmTTLYL.jpg",
+      "description": "Web dasturlash, algoritm va Python bo‘yicha darslar.",
+      "books": [
+        {
+          "title": "Dasturlash asoslari",
+          "url": "/books/code.pdf"
+        }
+      ],
+      "bio": "Kod yozish – bu san’at. Har bir o‘quvchimga kodni tushuntiraman.",
+      "achievements": [
+        "💻 2022 — IT Park mentori"
+      ],
+      "stats": {
+        "experience": 8,
+        "students": 320,
+        "olympiads": 12
+      },
+      "reviews": [
+        {
+          "name": "Kamola Jumanazarova",
+          "comment": "Endi o‘zim ham veb sayt yarata olaman!"
+        }
+      ]
     },
     {
       "id": 9,
-      "image": "https://plus.unsplash.com/premium_photo-1688350808212-4e6908a03925?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGVyc29uJTIwd2hpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww",
       "name": "Malika Nurmatova",
       "subject": "O‘zbekiston tarixi",
-      "phone": "+998907654321"
+      "phone": "+998907654321",
+      "image": "https://plus.unsplash.com/premium_photo-1688350808212-4e6908a03925",
+      "description": "Tarixiy faktlar, hujjatlar asosida dars o‘tadi.",
+      "books": [
+        {
+          "title": "O‘zbekiston tarixi",
+          "url": "/books/history.pdf"
+        }
+      ],
+      "bio": "Tarix saboqlarini zamonaviy texnologiyalar yordamida o‘rgataman.",
+      "achievements": [
+        "📚 2020 — Tarixiy tadqiqotlar konferensiyasi"
+      ],
+      "stats": {
+        "experience": 13,
+        "students": 340,
+        "olympiads": 19
+      },
+      "reviews": [
+        {
+          "name": "Iskandar Usmonov",
+          "comment": "Tarixni endi sevadigan bo‘ldim!"
+        }
+      ]
     },
     {
       "id": 10,
-      "image": "https://st3.depositphotos.com/34639946/36190/i/450/depositphotos_361909184-stock-photo-portrait-of-handsome-doctor-or.jpg",
       "name": "Rustam Karimov",
       "subject": "Jahon tarixi",
-      "phone": "+998939393939"
+      "phone": "+998939393939",
+      "image": "https://st3.depositphotos.com/34639946/36190/i/450/depositphotos_361909184-stock-photo-portrait-of-handsome-doctor-or.jpg",
+      "description": "Dunyo tarixidan chuqur va zamonaviy bilimlar beradi.",
+      "books": [
+        {
+          "title": "Jahon tarixi",
+          "url": "/books/worldhistory.pdf"
+        }
+      ],
+      "bio": "Tarixni voqealar orqali tushuntirish uslubim bor.",
+      "achievements": [
+        "🏛️ 2021 — Jahon tarixi bo‘yicha xalqaro loyiha"
+      ],
+      "stats": {
+        "experience": 17,
+        "students": 420,
+        "olympiads": 23
+      },
+      "reviews": [
+        {
+          "name": "Mavluda Abdullayeva",
+          "comment": "Jahon tarixiga bo‘lgan qiziqishim ortdi!"
+        }
+      ]
     },
     {
       "id": 11,
-      "image": "https://media.istockphoto.com/id/1194830394/video/portrait-of-a-happy-young-woman-talking.jpg?s=640x640&k=20&c=ph03KOhrYffUuym4E4KSLuzBKOZQHbDHL0RCKkwWd08=",
       "name": "Muxlisa Toshpulatova",
       "subject": "Huquq asoslari",
-      "phone": "+998901234111"
+      "phone": "+998901234111",
+      "image": "https://media.istockphoto.com/id/1194830394/video/portrait-of-a-happy-young-woman-talking.jpg",
+      "description": "Konstitutsiya, huquqiy ong va majburiyatlarni o‘rgatadi.",
+      "books": [
+        {
+          "title": "Huquq asoslari",
+          "url": "/books/huquq.pdf"
+        }
+      ],
+      "bio": "Huquqiy madaniyatni yosh avlodga yetkazish — mening vazifam.",
+      "achievements": [
+        "⚖️ 2022 — Yilning huquqshunosi"
+      ],
+      "stats": {
+        "experience": 9,
+        "students": 250,
+        "olympiads": 8
+      },
+      "reviews": [
+        {
+          "name": "Sardor Narzullayev",
+          "comment": "Endi o‘z huquqlarimni yaxshi bilaman!"
+        }
+      ]
     },
     {
       "id": 12,
-      "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydHJhaXQlMjB3aGl0ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D",
       "name": "Javlonbek Mamatov",
       "subject": "Jismoniy tarbiya",
-      "phone": "+998938887766"
+      "phone": "+998938887766",
+      "image": "https://images.unsplash.com/photo-1583195763986-0231686dcd43",
+      "description": "Sport va salomatlik yo‘nalishida treninglar olib boradi.",
+      "books": [
+        {
+          "title": "Sog‘lom turmush",
+          "url": "/books/sport.pdf"
+        }
+      ],
+      "bio": "Sport bu sog‘liq garovi. Har bir o‘quvchim sog‘lom hayot kechirsin!",
+      "achievements": [
+        "🏃 2021 — Respublika sport musobaqasi murabbiyi"
+      ],
+      "stats": {
+        "experience": 11,
+        "students": 300,
+        "olympiads": 15
+      },
+      "reviews": [
+        {
+          "name": "Sherzod Abduvali",
+          "comment": "Darslardan so‘ng har doim motivatsiya yuqori!"
+        }
+      ]
     }
   ]
 }
